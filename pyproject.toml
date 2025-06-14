@@ -8,4 +8,6 @@ dependencies = [
     "hftbacktest>=2.3.0",
     "ipykernel>=6.29.5",
     "numba>=0.61.2",
+    "polar>=0.0.127",
+    "polars>=1.30.0",
 ]
